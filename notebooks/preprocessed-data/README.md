@@ -2,7 +2,7 @@
 
 This notebook contains the data loading, preprocessing, and visualization steps for the credit card fraud detection project.
 
-## Steps Included
+## Steps Included 
 
 1. **Loading the Dataset**
     - Loaded the dataset from `creditcard.csv`.
