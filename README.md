@@ -15,7 +15,7 @@ This project aims to build a classification model to predict whether a credit ca
 - `models`: Directory containing the saved model files.
 - `visuals`: Directory containing visualization files.
 - `data`: Directory containing the train and test datasets.
-- `README.md`: Documentation file.
+- `README.md`
 
 Ensure all dependencies are installed:
  
