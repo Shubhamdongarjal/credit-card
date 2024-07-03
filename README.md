@@ -17,7 +17,7 @@ This project aims to build a classification model to predict whether a credit ca
 - `data`: Directory containing the train and test datasets.
 - `README.md`
 
-Ensure all dependencies are installed:
+Ensure all dependencies are installed: 
  
     pip install -r requirements.txt
 
