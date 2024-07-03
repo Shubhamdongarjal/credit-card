@@ -3,7 +3,7 @@
 
 This directory contains the visualization files generated during the data preprocessing and analysis phase.
 
-## Visualizations
+## Visualizations 
 
 - `class_distribution.jpg`: Class distribution of fraudulent and non-fraudulent transactions.
 - `correlation_heatmap.jpg`: Correlation heatmap of the dataset features.
