@@ -2,7 +2,7 @@
 
 This notebook contains the model training, evaluation, and saving steps for the credit card fraud detection project.
 
-## Steps Included
+## Steps Included 
 
 1. **Model Training**
     - Trained multiple models: Logistic Regression, Random Forest, Decision Tree, and XGBoost.
