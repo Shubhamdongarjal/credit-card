@@ -1,4 +1,4 @@
-# Model Deployment Notebook
+# Model Development Notebook
 
 This notebook contains the model training, evaluation, and saving steps for the credit card fraud detection project.
 
